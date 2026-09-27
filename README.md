@@ -96,15 +96,17 @@ Develop targeted strategies for underperforming healthcare facilities.
 📷 Dashboard Preview
 Healthcare Billing Dashboard
 
-(Insert screenshot here)
+<img width="1296" height="728" alt="image" src="https://github.com/user-attachments/assets/ff5453dc-84e9-4265-a3b4-536748582172" />
+
 
 Healthcare Appointment Dashboard
 
-(Insert screenshot here)
+<img width="1300" height="733" alt="image" src="https://github.com/user-attachments/assets/6582f582-a054-4e25-a1ba-9c5e2b595ef3" />
+
 
 👨‍💻 Author
 
-[Your Name]
+APOORV
 
 Aspiring Data Analyst skilled in:
 
@@ -114,4 +116,3 @@ Excel
 Data Visualization
 Business Analytics
 
-📫 Connect with me on LinkedIn: Add your LinkedIn profile link here
